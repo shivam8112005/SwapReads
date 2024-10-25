@@ -42,15 +42,12 @@
 
 <!-- START_STRUCTURE -->
 ```
-├── CODE_OF_CONDUCT.md
-├── CONTRIBUTING.md
 ├── DOTENV
 ├── Information/
 │   ├── CODE_OF_CONDUCT.md
-│   ├── Create Contributing.md
+│   ├── CONTRIBUTING.md
 │   ├── LICENSE
 │   ├── Learn.md
-│   ├── desktop.png
 │   ├── index.txt
 │   └── style-guide.md
 ├── LICENSE
@@ -87,7 +84,6 @@
 │   │   ├── socialmedia.css
 │   │   ├── style.css
 │   │   ├── styles.css
-│   │   ├── swiper-bundle.min.css
 │   │   ├── test-style.css
 │   │   └── visitors.css
 │   ├── event.css
@@ -161,7 +157,6 @@
 │   │   ├── forgot-pass.html
 │   │   ├── freeBooks.html
 │   │   ├── googlece7a206a6cfbb7ed.html
-│   │   ├── index.html
 │   │   ├── login.html
 │   │   ├── mood.html
 │   │   ├── mylogin.html
@@ -361,7 +356,6 @@
 │   ├── lotery ticket.jpeg
 │   └── the-magic-shop-17 (1).jpg
 ├── audiobook.html
-├── benefits.png
 ├── biographies.html
 ├── books.html
 ├── chat.css
@@ -391,10 +385,8 @@
 ├── exchangeHub.css
 ├── footer1.css
 ├── footer1.html
-├── genre.png
 ├── help.html
 ├── historical-chronicals.html
-├── home.png
 ├── index.html
 ├── intriguing-mysteries.html
 ├── lib.jpg
@@ -427,6 +419,7 @@
 ├── sense-sensibility_01_austen_64kb.mp3
 ├── server.js
 ├── signup1.html
+├── sitemap.html
 ├── stackbit.config.ts
 ├── stay_connect.css
 ├── subscribe.html
